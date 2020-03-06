@@ -5,5 +5,10 @@ public class GitTest {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+
+        int a = 9;
+        int b =++a;
+        System.out.println(b);
+
     }
 }
